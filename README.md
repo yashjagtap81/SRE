@@ -12,9 +12,9 @@ git clone https://github.com/yashjagtap81/astrologer-recommendation.git
 cd astrologer-recommendation
 
 ## Technologies Used
-  Python 3
-  Sentence Transformers
-  Scikit-learn
-  OpenAI API (optional)
-  Jupyter Notebook
+  - Python 3
+  - Sentence Transformers
+  - Scikit-learn
+  - OpenAI API (optional)
+  - Jupyter Notebook
    
