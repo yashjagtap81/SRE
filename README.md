@@ -8,7 +8,7 @@
 - **Mock Data**: 5 sample astrologers with specialties (love, career, etc.)
 
 ##  Installation 
-git clone https://github.com/yashjagtap81/astrologer-recommendation.git
+git clone https://github.com/yashjagtap81/SRE.git
 cd astrologer-recommendation
 
 ## Technologies Used
